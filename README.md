@@ -8,3 +8,7 @@ Run ds18b20_finder.py to get you bytadress and update ds18b20.py with your senso
 Parts used:
 
 Raspberry Pi Picow W
+Geekpi Pico Screw Terminal
+A-Z Delivery DS18B20
+QCRobot TDS sensor
+QCrobot Non-Contact Water Level Sensor
